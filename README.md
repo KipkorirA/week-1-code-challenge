@@ -38,16 +38,8 @@ This indicates that a student scoring 85 marks receives an 'A' grade.
 - Adjust the grade thresholds (`if-else` conditions) as needed based on specific grading criteria.
 - This script provides a basic implementation and can be expanded for more nuanced grading systems or integrated into larger applications.
 
-### Author
-This script was authored by [Your Name].
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-Replace `[Your Name]` with your name or organization name in the "Author" section. Customize the details and formatting according to your specific use case and preferences.
-
-## 2. Speed Detector (Toy Problem)
+## Challenge 2. Speed Detector (Toy Problem)
 
 ### Challenge 
 Write a program that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
@@ -89,7 +81,7 @@ This indicates that the car was speeding by 15 km/h (85 km/h - 70 km/h), resulti
 - This script provides a basic implementation and can be expanded for more complex scenarios or integrated into larger applications.
 
 
-## 3. Net Salary Calculator (Toy Problem)
+## Challenge 3. Net Salary Calculator (Toy Problem)
 
 ### About
 This JavaScript program calculates the net salary of an employee based on their basic salary and benefits. It includes deductions for PAYE (tax), NHIF, Housing Levy, and NSSF as per Kenyan regulations.
