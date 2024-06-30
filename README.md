@@ -34,10 +34,6 @@ Student's grade is: A
 ```
 This indicates that a student scoring 85 marks receives an 'A' grade.
 
-### Notes
-- Adjust the grade thresholds (`if-else` conditions) as needed based on specific grading criteria.
-- This script provides a basic implementation and can be expanded for more nuanced grading systems or integrated into larger applications.
-
 
 ## Challenge 2. Speed Detector (Toy Problem)
 
